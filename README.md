@@ -15,19 +15,5 @@ npm install
 npm start
 ```
 ***
-# Skills used in the project :
 
-* HTML
-* CSS
-* Javscript
-* Bootstrap 5
-* scss
 
-***
-# Project properties :
-* Responsive to computers and smartphones
-* In this project Node Package Manager ( npm ) is used to install different package managers, frameworks and libraries like :
-```
-Bootstrap 5
-scss
-```
